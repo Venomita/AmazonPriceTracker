@@ -1,0 +1,11 @@
+C:\Users\hamza\OneDrive\Desktop\C#\Assignments\AmazonPriceTracker\Culminating\bin\Debug\Culminating.exe.config
+C:\Users\hamza\OneDrive\Desktop\C#\Assignments\AmazonPriceTracker\Culminating\bin\Debug\Culminating.exe
+C:\Users\hamza\OneDrive\Desktop\C#\Assignments\AmazonPriceTracker\Culminating\bin\Debug\Culminating.pdb
+C:\Users\hamza\OneDrive\Desktop\C#\Assignments\AmazonPriceTracker\Culminating\bin\Debug\HtmlAgilityPack.dll
+C:\Users\hamza\OneDrive\Desktop\C#\Assignments\AmazonPriceTracker\Culminating\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\hamza\OneDrive\Desktop\C#\Assignments\AmazonPriceTracker\Culminating\bin\Debug\HtmlAgilityPack.xml
+C:\Users\hamza\OneDrive\Desktop\C#\Assignments\AmazonPriceTracker\Culminating\obj\Debug\Culminating.csprojAssemblyReference.cache
+C:\Users\hamza\OneDrive\Desktop\C#\Assignments\AmazonPriceTracker\Culminating\obj\Debug\Culminating.csproj.CoreCompileInputs.cache
+C:\Users\hamza\OneDrive\Desktop\C#\Assignments\AmazonPriceTracker\Culminating\obj\Debug\Culminating.csproj.CopyComplete
+C:\Users\hamza\OneDrive\Desktop\C#\Assignments\AmazonPriceTracker\Culminating\obj\Debug\Culminating.exe
+C:\Users\hamza\OneDrive\Desktop\C#\Assignments\AmazonPriceTracker\Culminating\obj\Debug\Culminating.pdb
